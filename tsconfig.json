@@ -1,4 +1,5 @@
 {
+  "files": "app/**/*.ts",
   "compilerOptions": {
     "target": "es5",
     "module": "system",
